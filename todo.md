@@ -6,6 +6,6 @@
 - [ ] add firebase
 - [ ] add info about site and typical site pages for info
 - [ ] remove netlify
-- [ ] turn off netlify ci/cd
+- [x] turn off netlify ci/cd
 - [ ]
 - [ ]
