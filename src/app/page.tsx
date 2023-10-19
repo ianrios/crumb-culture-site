@@ -9,6 +9,7 @@ export default function Home() {
         <div>link 2</div>
         <div>link 3</div>
         <div>link 4</div>
+        <div>link 4</div>
       </div>
       <p>info</p>
     </main>
